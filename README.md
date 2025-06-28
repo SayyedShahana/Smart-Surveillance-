@@ -1,1 +1,2 @@
-# Smart-Surveillance-
+# Smart-Surveillance-System with Firebase Authentication
+This project is a glassmorphic-themed smart surveillance web application that features secure user authentication using Firebase. It allows users to sign up or log in with email and password credentials. Upon successful login, users are redirected to a live video surveillance dashboard. Built with HTML, Tailwind CSS, and Firebase Auth, the interface is minimal, responsive, and visually modern using blur and transparency effects.
